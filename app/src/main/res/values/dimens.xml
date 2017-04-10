@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="logo_heigth">120dp</dimen>
+    <dimen name="logo_padding">10dp</dimen>
+    <dimen name="card_ord">210dp</dimen>
+    <dimen name="card2">280dp</dimen>
+    <dimen name="card4">150dp</dimen>
+    <dimen name="card8">130dp</dimen>
+    <dimen name="card9">230dp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="qustion_text_size">18sp</dimen>
+    <dimen name="answer_text_size">17sp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="padding_bottom">5dp</dimen>
+    <dimen name="margin100">100dp</dimen>
+    <dimen name="zero">0dp</dimen>
+
+</resources>

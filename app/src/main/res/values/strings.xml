@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Warcraft Quiz</string>
+
+    <string name="q1">1. What is the highest level you can get to in \"World of Warcraft: Legion\"?</string>
+    <string name="q1a1">80</string>
+    <string name="q1a2">90</string>
+    <string name="q1a3">100</string>
+    <string name="q1a4">110</string>
+
+    <string name="q2">2. \"Ey, mon! We be speakin\' like dis!\" This race speaks with a strong
+        Jamaican accent and participate in tribal dances. \"Stay away from da Voodoo!\" Who are we?</string>
+    <string name="q2a1">Orcs</string>
+    <string name="q2a2">Pandarens</string>
+    <string name="q2a3">Trolls</string>
+    <string name="q2a4">Worgens</string>
+
+    <string name="q3">3. What are the two factions in the game?</string>
+    <string name="q3a1">Alliance</string>
+    <string name="q3a2">Empire</string>
+    <string name="q3a3">Horde</string>
+    <string name="q3a4">Republic</string>
+
+    <string name="q4">4. ...So Thousand Needles is flooded. During what campaign did that happen?</string>
+    <string name="q4_hint">Name of the expansion</string>
+
+    <string name="q5">5. What classes can heal either themselves or a pet?</string>
+    <string name="q5a1">Priest</string>
+    <string name="q5a2">Hunter</string>
+    <string name="q5a3">Mage</string>
+    <string name="q5a4">Rogue</string>
+
+    <string name="q6">6. How many resources did a team need in Arathi Basin to win?</string>
+    <string name="q6a1">1450</string>
+    <string name="q6a2">1600</string>
+    <string name="q6a3">2000</string>
+    <string name="q6a4">2200</string>
+
+    <string name="q7">7. What profession do you need to be to make a linen shirt?</string>
+    <string name="q7a1">Tailoring</string>
+    <string name="q7a2">Leatherworking</string>
+    <string name="q7a3">Blacksmithing</string>
+    <string name="q7a4">Skinning</string>
+
+    <string name="q8">8. Which Vanilla boss yells "TASTE THE FLAMES OF SULFURON!"?</string>
+    <string name="q8_hint">Name of the boss</string>
+
+    <string name="q9">9. If an item or piece of equipment is considered \'epic\', what color represents it?</string>
+    <string name="q9a1">Green</string>
+    <string name="q9a2">Blue</string>
+    <string name="q9a3">Purple</string>
+    <string name="q9a4">Orange</string>
+
+    <string name="q10">10. What new class are you able to have in \"World of Warcraft: Legion\"?</string>
+    <string name="q10a1">Death Knight</string>
+    <string name="q10a2">Demon Hunter</string>
+    <string name="q10a3">Monk</string>
+    <string name="q10a4">Hunter</string>
+
+    <string name="score">submit</string>
+    <string name="reset">reset</string>
+
+    <string name="question_four_answer">Cataclysm</string>
+    <string name="question_eight_answer">Ragnaros</string>
+
+    <!-- String values used in MainActivity.java file-->
+    <string name="congratulations">Congratulations on finishing the QUIZ!</string>
+    <string name="final_score">Your final score is: </string>
+    <string name="max_score">/10</string>
+
+    <!--Empty answer messages-->
+    <string name="empty_answer_1">Question 1 cannot be left blank</string>
+    <string name="empty_answer_2">Question 2 cannot be left blank</string>
+    <string name="empty_answer_3">Question 3 cannot be left blank</string>
+    <string name="empty_answer_4">Question 4 cannot be left blank</string>
+    <string name="empty_answer_5">Question 5 cannot be left blank</string>
+    <string name="empty_answer_6">Question 6 cannot be left blank</string>
+    <string name="empty_answer_7">Question 7 cannot be left blank</string>
+    <string name="empty_answer_8">Question 8 cannot be left blank</string>
+    <string name="empty_answer_9">Question 9 cannot be left blank</string>
+    <string name="empty_answer_10">Question 10 cannot be left blank</string>
+
+    <!--Too many marked answers in check box questions message-->
+    <string name="question_3_error">You have marked more than 2 answers in question 3</string>
+    <string name="question_5_error">You have marked more than 2 answers in question 5</string>
+
+
+</resources>
